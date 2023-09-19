@@ -1,0 +1,26 @@
+#Notes for loading file data
+  1. Open specific file
+  2. Check "Name"
+  3. If "Name" = '' it must be a new file
+  4. Therefore, create new name for file
+  5. If "Name" = Anything it must have file data
+  6. Therefore, load file data and player into correct states
+
+#File Makeup
+  Variables:
+    Name
+      Simple string containing player name
+    Player_Stats
+      Player Class
+    Equipment
+      List
+    Items
+      List
+    Permanent_Flags
+      List using different sections and numbers to differentiate areas and flags
+    States
+      List of overworld states using different numbers to differentiate areas
+    Player_State
+      List of states specific to the player
+    
+  
