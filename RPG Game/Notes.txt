@@ -1,0 +1,92 @@
+Isekai Plot
+    Main Character dies after a tragic loss and is transported to the
+    underworld where he has to go through and tries to become the Demon
+    King
+
+Sequence
+    Opening story
+    Wake up on the ground in a strange land
+    Move around in main room (Introduce movement controls)
+    Continue to the next room (Dungeon 1)
+    Tablet in front that explains what happened
+    Grab nearby sword
+    Introduce combat 
+    ...
+
+Opening Controls 
+    Movement 
+        W, A, S, D - Directions
+    
+    Inventory
+        Backspace - Open Inventory 
+    
+    System Menu
+        ESC - Open Menu
+    
+Enemies
+    Dungeon 1
+
+
+Overworld
+
+Towns
+
+
+Shops
+
+
+Gems
+    Fire Gem
+        Location:
+            Dungeon 1
+
+        Ability:
+            Allows the user to shoot a low power fire blast
+            Can be used to burn objects
+
+        Stats:
+        
+
+Dungeons
+    Contain an item needed to progress
+    Puzzles
+    Bosses
+
+    Dungeon 1
+        Main Items:
+            Training Sword 
+            Wizard's Gauntlet's 
+            Fire Gem 
+
+        Structure:
+
+
+Live Combat
+    Attacks assigned to buttons
+    Attack Patterns
+
+Zelda-esk Style
+    Items to progress found in dungeons 
+    Puzzles
+    Side-Quests
+    Collectables
+
+Magic
+    Gauntlet (Dungeon 1)
+        Allows player to use magic from gems 
+
+    Books
+        Permanent magic assigned to keys (I.e., double jump, etc.)
+        Not required
+
+    Gems
+        Customizable magic limit to 4 in running time
+        Required
+        Needs Gauntlet 
+        Can't wield weapon and magic simultaneously until later
+
+Customizable playstyle
+    Different classes and paths to upgrade along
+    Difficulty settings
+
+
